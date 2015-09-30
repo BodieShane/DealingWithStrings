@@ -10,9 +10,7 @@ public class StringRunner
 	 //mything.start;
 	 PopupController myInput = new PopupController();
 	myInput.start();
-	{
 	
-	}
 	 
  }
 }
